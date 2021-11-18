@@ -23,6 +23,7 @@ CPU：i7 8700K
 
 散热：利民FS140
 
-# OpenCore版本：0.7.1
+# 使用请更换三码！！！
+# OpenCore版本：0.7.6
 
-![概览](http://image.coolapk.com/feed/2021/0624/12/758562_669800c0_9524_8803@1172x702.png.m.jpg)
+![概览](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c60b90eb27a544439421d80c4a0f4698~tplv-k3u1fbpfcp-watermark.image?)
