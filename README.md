@@ -26,4 +26,4 @@ CPU：i7 8700K
 # 使用请更换三码！！！
 # OpenCore版本：0.7.6
 
-![概览](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c60b90eb27a544439421d80c4a0f4698~tplv-k3u1fbpfcp-watermark.image?)
+![概览](https://ww1.sinaimg.cn/large/a4f053ably1gwjdg58j04j20yk0li43v.jpg)
